@@ -1,7 +1,7 @@
 {
-  "name": "todo-app",
+  "name": "github.com/jvrpuig/todo-app",
   "version": "0.0.0",
-  "description": "No description",
+  "description": "jvrpuig/ToDo-App @ Dec 4, 2018",
   "author": null,
   "private": true,
   "main": "node_modules/expo/AppEntry.js",
